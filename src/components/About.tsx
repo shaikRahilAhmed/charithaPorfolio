@@ -19,7 +19,7 @@ const About = () => {
 
               <p className="text-lg text-muted-foreground">
                 Fast-forward to today, and I've had the privilege of working on various projects
-                ranging from [project types]. My main focus these days is building accessible,
+                ranging from Development. My main focus these days is building accessible,
                 inclusive products and digital experiences.
               </p>
 
@@ -33,7 +33,7 @@ const About = () => {
                   "React",
                   "TypeScript",
                   "Node.js",
-                  "Python",
+                  "Java",
                   "SQL",
                 ].map((tech) => (
                   <li key={tech} className="flex items-center">
