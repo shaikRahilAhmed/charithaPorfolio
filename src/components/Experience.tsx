@@ -3,36 +3,61 @@ import { Briefcase, GraduationCap } from "lucide-react";
 const Experience = () => {
   const experiences = [
     {
-      type: "work",
-      title: "Software Developer",
-      company: "Company Name",
-      period: "2023 - Present",
+      type: "intern 3",
+      title: " Web Developer Intern",
+      company: "GS-HATCH-UI/UX",
+      period: "Aug 2025- present",
       description: [
-        "Developed and maintained web applications using React and TypeScript",
-        "Collaborated with cross-functional teams to deliver high-quality products",
-        "Implemented responsive designs and optimized application performance",
+        'UI/UX and Web Developer Intern at S-HATCH, where I design and build responsive, user-centered web interfaces. I collaborate with the team to create intuitive UI/UX designs and implement them using Figma, React, and modern web technologies.'
+
       ],
     },
     {
-      type: "work",
-      title: "Junior Developer",
-      company: "Previous Company",
-      period: "2021 - 2023",
+      type: "intern 2",
+      title: "Design Intern",
+      company: "GrowAthlete",
+      period: "Aug 2025- present",
       description: [
-        "Built reusable component libraries and front-end architecture",
-        "Worked closely with designers to implement pixel-perfect interfaces",
-        "Participated in code reviews and mentored junior developers",
+        'Design Intern at GrowAthlete, a sports startup, where I created user-centered UI/UX designs and visual assets for both web and mobile platforms. Collaborated closely with cross-functional teams to maintain brand consistency and enhance overall user experience using Figma and Adobe Creative Suite.'
+      ],
+    },
+    {
+      type: "intern 1",
+      title: "Web Developer",
+      company: "Plasmid",
+      period: "Jan-Mar 2025",
+      description: [
+        'Completed a 2-month web development internship at Plasmid, where I developed and styled responsive user interfaces using HTML, CSS, JavaScript, and React.js—focusing on usability, performance, and clean component-based architecture.',
+        
       ],
     },
     {
       type: "education",
-      title: "Bachelor of Science in Computer Science",
-      company: "University Name",
-      period: "2017 - 2021",
+      title: "B.tech",
+      company: "Institue of Aeronautical Engineering",
+      period: "2023 - Present",
       description: [
-        "Graduated with honors",
-        "Relevant coursework: Data Structures, Algorithms, Web Development",
+        "Pusring 3-2 right now with the current CGPA of 8.98",
+        "Specilizing in Computer Scince Engineering",
         "Active member of coding club and participated in hackathons",
+      ],
+    },
+    {
+      type: "intermediate",
+      title: "Intermediate",
+      company: "Sri Chaitanya Junior College",
+      period: "2021 - 2023",
+      description: [
+        "Percentage of 98.1",
+      ],
+    },
+     {
+      type: "schooling",
+      title: "Secoundary School",
+      company: "New Little Flowers(EM) high school",
+      period: "2021",
+      description: [
+        "CGPA of 10.0",
       ],
     },
   ];

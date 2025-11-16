@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="flex flex-col items-center space-y-4">
             <div className="flex items-center gap-6">
               <a
-                href="https://github.com"
+                href="https://github.com/PantangiCharitha"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-accent transition-colors"
@@ -18,7 +18,7 @@ const Footer = () => {
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/pantangi-charitha-5b43a9292/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-accent transition-colors"
@@ -26,7 +26,7 @@ const Footer = () => {
                 <Linkedin className="w-5 h-5" />
               </a>
               <a
-                href="mailto:your.email@example.com"
+                href="mailto:charithapantangi07@example.com"
                 className="text-muted-foreground hover:text-accent transition-colors"
               >
                 <Mail className="w-5 h-5" />
@@ -34,7 +34,7 @@ const Footer = () => {
             </div>
 
             <p className="text-muted-foreground text-sm text-center">
-              © {currentYear} Your Name. Built with React & Tailwind CSS.
+              © {currentYear} Charitha. Built with Love ❤.
             </p>
           </div>
         </div>

@@ -5,53 +5,24 @@ import { ExternalLink, Github } from "lucide-react";
 const Projects = () => {
   const projects = [
     {
-      title: "Project One",
+      title: " AI BASED INTERVIEWER",
       description:
-        "A comprehensive web application built with React and Node.js that helps users manage their daily tasks efficiently.",
+        'Developed an AI-based interviewer application using Python and Streamlit, designed to simulate real interview scenarios through dynamic question flow, scoring logic, and real-time feedback. Focused on delivering a smooth and user-friendly interface with interactive elements that mimic actual interview environments, helping users practice and improve their performance.',
       technologies: ["React", "Node.js", "PostgreSQL", "Tailwind CSS"],
       github: "https://github.com",
       demo: "https://demo.com",
     },
     {
-      title: "Project Two",
+      title: "SHOPZEN-AN ECOMMERCE WEBSITE",
       description:
-        "An e-commerce platform featuring real-time inventory management and secure payment processing.",
-      technologies: ["Next.js", "TypeScript", "Stripe", "MongoDB"],
+        'Built a modern eCommerce app called ShopZen using React.js, Tailwind CSS, and React Router. Implemented dynamic products, category filtering, smooth UI interactions, and client-side routing. Followed mobile-first UI/UX practices with Framer Motion animations, and deployed globally on Vercel for fast performance.'
+
+,
+      technologies: ["React.js", "Tailwind CSS", "React Router"],
       github: "https://github.com",
       demo: "https://demo.com",
     },
-    {
-      title: "Project Three",
-      description:
-        "A mobile-responsive social media dashboard with data visualization and analytics features.",
-      technologies: ["React", "D3.js", "Express", "Redis"],
-      github: "https://github.com",
-      demo: "https://demo.com",
-    },
-    {
-      title: "Project Four",
-      description:
-        "An AI-powered chatbot application that provides customer support and automates common queries.",
-      technologies: ["Python", "OpenAI", "FastAPI", "Docker"],
-      github: "https://github.com",
-      demo: "https://demo.com",
-    },
-    {
-      title: "Project Five",
-      description:
-        "A collaborative project management tool with real-time updates and team communication features.",
-      technologies: ["React", "Socket.io", "Node.js", "MySQL"],
-      github: "https://github.com",
-      demo: "https://demo.com",
-    },
-    {
-      title: "Project Six",
-      description:
-        "A portfolio website builder that allows users to create beautiful portfolios without coding.",
-      technologies: ["Vue.js", "Firebase", "Tailwind CSS", "Netlify"],
-      github: "https://github.com",
-      demo: "https://demo.com",
-    },
+   
   ];
 
   return (

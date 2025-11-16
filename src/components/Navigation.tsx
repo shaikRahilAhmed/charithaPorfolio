@@ -46,7 +46,7 @@ const Navigation = () => {
             }}
             className="text-xl font-bold text-foreground hover:text-accent transition-colors"
           >
-            Portfolio
+            Charitha's Portfolio
           </a>
 
           {/* Desktop Navigation */}

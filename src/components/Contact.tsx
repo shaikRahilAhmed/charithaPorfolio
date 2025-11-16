@@ -23,31 +23,31 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "your.email@example.com",
-      href: "mailto:your.email@example.com",
+      value: "charithapantangi07@example.com",
+      href: "mailto:charithapantangi07@example.com",
     },
     {
       icon: MapPin,
       label: "Location",
-      value: "Your City, Country",
+      value: "Hyderabad, India",
       href: null,
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
-      value: "linkedin.com/in/yourprofile",
-      href: "https://linkedin.com",
+      value: "pantangi charitha",
+      href: "https://www.linkedin.com/in/pantangi-charitha-5b43a9292/",
     },
     {
       icon: Github,
       label: "GitHub",
-      value: "github.com/yourusername",
-      href: "https://github.com",
+      value: "PantangiCharitha",
+      href: "https://github.com/PantangiCharitha",
     },
   ];
 
   return (
-    <section id="contact" className="py-20 bg-background">
+    <section id="contact" className="py-20 bg-slate-100">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-12">

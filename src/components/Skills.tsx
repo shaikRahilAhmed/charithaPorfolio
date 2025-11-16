@@ -9,17 +9,12 @@ const Skills = () => {
       description: "Building responsive and interactive user interfaces",
       skills: ["React", "TypeScript", "Tailwind CSS", "Next.js"],
     },
-    {
-      icon: Terminal,
-      title: "Backend Development",
-      description: "Creating robust server-side applications",
-      skills: ["Node.js", "Python", "REST APIs", "GraphQL"],
-    },
+    
     {
       icon: Database,
       title: "Database Management",
       description: "Designing and optimizing data storage solutions",
-      skills: ["PostgreSQL", "MongoDB", "Redis", "SQL"],
+      skills: [ "SQL"],
     },
     {
       icon: Palette,

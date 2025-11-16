@@ -45,16 +45,17 @@ const About = () => {
             </div>
 
             <div className="relative group">
-              <div className="relative z-10 rounded-lg overflow-hidden shadow-medium">
+              <div className="relative z-10 rounded-lg overflow-hidden shadow-medium flex justify-center">
                 <img
                   src={profileImage}
                   alt="Profile"
-                  className="w-full h-auto rounded-lg transition-transform duration-300 group-hover:scale-105"
+                  className="w-full max-w-[280px] mx-auto h-auto rounded-lg transition-transform duration-300 group-hover:scale-105"
                 />
-                <div className="absolute inset-0 bg-accent/20 group-hover:bg-transparent transition-colors duration-300"></div>
+                
               </div>
-              <div className="absolute -inset-4 border-2 border-accent rounded-lg -z-10 group-hover:translate-x-2 group-hover:translate-y-2 transition-transform duration-300"></div>
+              
             </div>
+
           </div>
         </div>
       </div>
