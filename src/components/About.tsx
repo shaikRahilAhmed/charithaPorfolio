@@ -13,7 +13,7 @@ const About = () => {
             <div className="space-y-6">
               <p className="text-lg text-muted-foreground">
                 Hello! I'm a passionate developer who enjoys creating things that live on the
-                internet. My interest in development started back in [year] when I decided to
+                internet. My interest in development started back in 2023when I decided to
                 try building my first website.
               </p>
 
