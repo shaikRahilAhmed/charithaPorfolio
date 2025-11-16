@@ -9,7 +9,7 @@ const Projects = () => {
       description:
         'Developed an AI-based interviewer application using Python and Streamlit, designed to simulate real interview scenarios through dynamic question flow, scoring logic, and real-time feedback. Focused on delivering a smooth and user-friendly interface with interactive elements that mimic actual interview environments, helping users practice and improve their performance.',
       technologies: ["React", "Node.js", "PostgreSQL", "Tailwind CSS"],
-      github: "https://github.com",
+      github: "https://git.com",
       demo: "https://demo.com",
     },
     {
@@ -19,7 +19,7 @@ const Projects = () => {
 
 ,
       technologies: ["React.js", "Tailwind CSS", "React Router"],
-      github: "https://github.com",
+      github: "https://git.com",
       demo: "https://demo.com",
     },
    
